@@ -13,6 +13,7 @@ specifiers:
   husky: ^7.0.4
   lint-staged: ^12.3.5
   prettier: ^2.5.1
+  ts-node: ^10.9.1
   typescript: ^4.8.3
 
 devDependencies:
@@ -28,6 +29,7 @@ devDependencies:
   husky: 7.0.4
   lint-staged: 12.5.0
   prettier: 2.7.1
+  ts-node: 10.9.1_tjxxr4okrdgzkzqzhfljhcr2hu
   typescript: 4.8.3
 
 packages:

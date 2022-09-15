@@ -97,3 +97,5 @@ Object.entries(dependenciesFactories).forEach(([dependencyName, factory]) => {
     get: () => factory(container),
   })
 })
+
+// 缺点: 需要解决循环依赖, 详情看 cyclic-denpendencies 目录
